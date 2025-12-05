@@ -2,7 +2,7 @@
 
 Un mini-jeu web éducatif et gamifié développé pour la **Nuit de l'Info**, visant à sensibiliser au numérique durable, à la réduction de la dépendance aux Big Tech, au reconditionnement, à Linux, aux logiciels libres, et à la démarche NIRD (Numérique Inclusif, Responsable et Durable).
 
-🌐 **[Jouer en ligne](https://defend-digital-village.vercel.app)** (lien placeholder)
+🌐 **[Jouer en ligne](https://digital-village-jade.vercel.app/)** (lien placeholder)
 
 ---
 
